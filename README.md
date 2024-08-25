@@ -91,5 +91,3 @@ The heatmap focused solely on failed RDP login attempts, but Azure cloud VMs hav
 * **Microsoft Azure Cloud:** I was new to Azure, but this lab taught me how to integrate its services to achieve a specific goal.
 * **PowerShell:** With limited prior experience, I learned to use PowerShell for local system log analysis.
 * **Kusto Query Language (KQL):** My first experience with KQL was challenging but rewarding, as I learned to clean and analyze log data in Azure.
-
-\
